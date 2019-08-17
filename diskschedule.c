@@ -204,6 +204,7 @@ void start_cscan(int in_count) {
     avg = seek/(float)q_size;
     printf("Average seek time is %f\n", avg);
     
+    
 }
 
 void start_look(int in_count) {
